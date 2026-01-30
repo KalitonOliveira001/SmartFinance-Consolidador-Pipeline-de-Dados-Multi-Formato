@@ -1,0 +1,1 @@
+# SmartFinance-Consolidador-Pipeline-de-Dados-Multi-Formato
